@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/exthm_haydn.mk
+    $(LOCAL_DIR)/miku_haydn.mk
 
 COMMON_LUNCH_CHOICES := \
-    exthm_haydn-user \
-    exthm_haydn-userdebug \
-    exthm_haydn-eng
+    miku_haydn-user \
+    miku_haydn-userdebug \
+    miku_haydn-eng
