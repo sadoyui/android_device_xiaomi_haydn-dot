@@ -17,7 +17,7 @@ TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_USES_AOSP_RECOVERY := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := exthm_haydn
+PRODUCT_NAME := miku_haydn
 PRODUCT_DEVICE := haydn
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := M2012K11I
