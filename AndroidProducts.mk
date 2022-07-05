@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/miku_haydn.mk
+    $(LOCAL_DIR)/dot_haydn.mk
 
 COMMON_LUNCH_CHOICES := \
-    miku_haydn-user \
-    miku_haydn-userdebug \
-    miku_haydn-eng
+    dot_haydn-user \
+    dot_haydn-userdebug \
+    dot_haydn-eng
