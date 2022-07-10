@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xdroid_haydn.mk
+    $(LOCAL_DIR)/dot_haydn.mk
 
 COMMON_LUNCH_CHOICES := \
-    xdroid_haydn-user \
-    xdroid_haydn-userdebug \
-    xdroid_haydn-eng
+    dot_haydn-user \
+    dot_haydn-userdebug \
+    dot_haydn-eng
